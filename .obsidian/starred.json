@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Main",
+      "path": "❤️‍🔥 Project.md"
+    },
+    {
+      "type": "file",
+      "title": "To search list",
+      "path": "To search list.md"
+    },
+    {
+      "type": "file",
+      "title": "Libft",
+      "path": "inbox/Libft.md"
+    },
+    {
+      "type": "search",
+      "title": "[memcmp]",
+      "query": "[memcmp]"
+    },
+    {
+      "type": "file",
+      "title": "obsidian - markdown",
+      "path": "inbox/obsidian - markdown.md"
+    }
+  ]
+}
