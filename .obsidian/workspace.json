@@ -8,111 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "860ff595b0f8bad5",
+            "id": "37aa3c304f7f21a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/obsidian - markdown.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba51a81bcde6a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "❤️‍🔥 Project.md",
+                "file": "philosopher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42ab3fd655857efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile relink and 종속성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30ccb518553e04dd",
+            "id": "955429ee2ccecda7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "173a1889dedbd09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git commit 되돌리기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09515024cbee88dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/pipex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6b98a3b84c57df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "so_long.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2b470dcfbd4885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Bone2beRoot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b72e80c62d2e6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/pipex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Makefile relink and 종속성.md",
+                "file": "philosopher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Makefile relink and 종속성.md",
+                "file": "philosopher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Makefile relink and 종속성.md"
+                "file": "philosopher.md"
               }
             }
           }
@@ -239,12 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42ab3fd655857efc",
+  "active": "37aa3c304f7f21a1",
   "lastOpenFiles": [
     "❤️‍🔥 Project.md",
+    "philosopher.md",
+    "minishell.md",
+    "inbox/pipex.md",
+    "Makefile relink and 종속성.md",
     "Makefile relink /종속성.md",
     "inbox/obsidian - markdown.md",
-    "inbox/pipex.md",
     "git commit 되돌리기.md",
     "Merge and conflict.md",
     "so_long.md",

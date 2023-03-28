@@ -6,6 +6,9 @@
 4. [[push_swap]]
 5. [[pipex]]
 6. [[so_long]]
+7. [[minishell]]
+8. [[philosopher]]
+
 
 [[obsidian - markdown]]
 

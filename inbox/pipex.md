@@ -37,8 +37,9 @@ https://bigpel66.oopy.io/library/42/inner-circle/8
 	- [ ] 명령어번호 따라서 = 0번읽기 / 1번쓰기 , 홀수는 1번읽기/0번쓰기
 	- [ ] 마지막 자식 명령어는 읽고 나서 아웃파일 fd에 쓰기
  - [ ] waitpid : 마지막 child
- - [ ] 히어독 어캄 << >>?
- - [ ] 파이프라인 병렬 처리
+ - [ ] bonus
+	 - [ ] 히어독 어캄 << >>?
+	 - [ ] 파이프라인 병렬 처리
 
 # 🌈 오류를 처리합니다
 - [ ] infile이 없을 경우
@@ -69,7 +70,6 @@ path에 해당하는 파일 유무 확인 / 권한 확인
 #define X_OK (1<<0) //executeable
 #define W_OK (1<<1) //writeable
 #define R_OK (1<<2) //readable
-
 int mode;
 access("path/path.ex", mode);
 ```
