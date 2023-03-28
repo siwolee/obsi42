@@ -85,3 +85,39 @@ int pthread_join(pthread_t th, //스레드의 식별자
 
 ```
 
+# 구조
+## main  
+변수확인  
+pthread 선언  
+뮤텍스 선언 * n (fork)Make  
+뮤텍스 초기화 //정적 동적 초기화의 차이는?  
+pthread create * n →&exec  
+pthread join * n  
+mutex destroy  
+
+## 변수확인
+if (ac not 4 or 5)  
+exit  
+while ac  
+- if av 숫자 아니면  
+- perror exi
+## init philo struct  
+struct env  
+- int 철학자의수 av1  
+- 죽는시간 av2  
+- 먹는시간 av3  
+- 자는시간 av4  
+- 옵셔널: must eat av5  
+- 포크 뮤텍스 n개 초기화struct philo[n]  
+- pthread id →놔둠. 아직 할거없음..  
+- 먹은 횟수 0  
+- 구조체 timeval 마지막 식사 시작 시간 gettimeoftheday  
+- 사용해야 하는 포크 n-1번(왼쪽)  
+- 사용할 포크 n번(오른쪽)  
+- Env
+## EXEC 
+> 메인 돌면서 실행시  pthread-create에서 사용할 함수  
+
+exec( env)  
+while (i < n)  
+- eat(fork, tv)  
