@@ -7,7 +7,7 @@
 5. [[pipex]]
 6. [[so_long]]
 7. [[minishell]]
-8. [[philosopher]]
+8. [[philosopherㅑ]
 
 
 [[obsidian - markdown]]

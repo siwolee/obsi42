@@ -23,11 +23,16 @@
             "id": "955429ee2ccecda7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "❤️‍🔥 Project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b97cdae57489b92",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosopher.md",
+                "file": "❤️‍🔥 Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosopher.md",
+                "file": "❤️‍🔥 Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosopher.md"
+                "file": "❤️‍🔥 Project.md"
               }
             }
           }
@@ -155,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37aa3c304f7f21a1",
+  "active": "955429ee2ccecda7",
   "lastOpenFiles": [
-    "❤️‍🔥 Project.md",
     "philosopher.md",
+    "❤️‍🔥 Project.md",
     "minishell.md",
     "inbox/pipex.md",
     "Makefile relink and 종속성.md",
