@@ -7,7 +7,8 @@
 5. [[pipex]]
 6. [[so_long]]
 7. [[minishell]]
-8. [[philosopherㅑ]
+8. [[philosopher]] 
+9. [[exam 03 -draw]]
 
 
 [[obsidian - markdown]]

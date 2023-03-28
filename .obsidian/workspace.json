@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "❤️‍🔥 Project.md",
+                "file": "exam 03 -draw.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤️‍🔥 Project.md",
+                "file": "exam 03 -draw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤️‍🔥 Project.md",
+                "file": "exam 03 -draw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❤️‍🔥 Project.md"
+                "file": "exam 03 -draw.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "955429ee2ccecda7",
   "lastOpenFiles": [
-    "philosopher.md",
+    "exam03.c",
     "❤️‍🔥 Project.md",
+    "exam 03 -draw.md",
+    "philosopher.md",
     "minishell.md",
     "inbox/pipex.md",
     "Makefile relink and 종속성.md",
