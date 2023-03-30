@@ -84,6 +84,32 @@ int pthread_join(pthread_t th, //스레드의 식별자
 		     void **thread_return); //리턴값. status 
 
 ```
+## sem_open
+```c
+sem_t * sem_open(  //세마포어 디스크립터
+			const char * sem_name, //생성 또는 접근하고자 하는 세마포어의 이름
+		     int oflags, //세마포어 생성 플래그 - O_CREAT / O_EXCL
+		     ... ); //mode_t mode , unsigned int value
+```
+이름 있는 세마포어의 생성 및 접근
+`sem_init()`으로 생성되는 무명 세마포어보다 느림
+세마포어는 시스템이 살아있는 한 존재
+
+반환한 세마포어는 `sem_wait()`  `sem_post()` 활용에 사용 가능
+`sem_close()` 호출 전까지 사용가능
+`sem_unlink()` 역시 가능하며, 모든 프로세스가 언링크하면 세마포어는 파괴됨
+
+유명 세마포어는 `/dev/sem` 경로에 생성
+
+## sem_close
+```c
+int sem_open(sem_t *sem);
+```
+returns 0; on error, -1 is returned
+
+
+sem_post, sem_wait, sem_unlink
+
 
 # 구조
 ## main  

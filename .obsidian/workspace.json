@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47df2529d2f87ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosopher.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosopher.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosopher.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37aa3c304f7f21a1",
+  "active": "47df2529d2f87ff1",
   "lastOpenFiles": [
+    "philosopher.md",
+    "conflict-files-obsidian-git.md",
     "exam 03 -draw.md",
     "exam03.c",
     "❤️‍🔥 Project.md",
-    "philosopher.md",
     "minishell.md",
     "inbox/pipex.md",
     "Makefile relink and 종속성.md",
