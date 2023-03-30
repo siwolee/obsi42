@@ -102,6 +102,10 @@ sem_t * sem_open(  //세마포어 디스크립터
 유명 세마포어는 `/dev/sem` 경로에 생성
 
 ## sem_close
+```c
+int sem_open(sem_t *sem);
+```
+returns 0; on error, -1 is returned
 
 
 sem_post, sem_wait, sem_unlink
