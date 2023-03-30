@@ -84,6 +84,8 @@ int pthread_join(pthread_t th, //스레드의 식별자
 		     void **thread_return); //리턴값. status 
 
 ```
+## sem_open, sem_close, sem_post, sem_wait, sem_unlink
+
 
 # 구조
 ## main  
