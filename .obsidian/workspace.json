@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "955429ee2ccecda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exam 03 -draw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam 03 -draw.md",
+                "file": "philosopher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam 03 -draw.md",
+                "file": "philosopher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam 03 -draw.md"
+                "file": "philosopher.md"
               }
             }
           }
@@ -159,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "955429ee2ccecda7",
+  "active": "37aa3c304f7f21a1",
   "lastOpenFiles": [
+    "exam 03 -draw.md",
     "exam03.c",
     "❤️‍🔥 Project.md",
-    "exam 03 -draw.md",
     "philosopher.md",
     "minishell.md",
     "inbox/pipex.md",
