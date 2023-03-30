@@ -103,12 +103,35 @@ sem_t * sem_open(  //세마포어 디스크립터
 
 ## sem_close
 ```c
-int sem_open(sem_t *sem);
+int sem_close(sem_t *sem);
 ```
 returns 0; on error, -1 is returned
 
 
-sem_post, sem_wait, sem_unlink
+## sem_post
+```c
+sem_post(sem_t *sem);
+```
+세마포어 하나 증가(V 역할)
+
+## sem_wait 
+```c
+sem_wait(sem_t *sem);
+```
+세마포어 하나 감소(P 역할)
+뮤텍스를 사용하는 것과 같다.
+세마포어를 하나 감소시키는 역할을 하고, 
+세마포어가 0일 때는 1 이상이 될 때까지 스레드는 대기 상태
+1 이상이 되면 대기상태에서 빠져나와 1 감소
+
+**sem_init(sem_t *sem, int pshared, unsigned int value);**
+
+첫번째 인자 :: 세마포어 객체를 초기화 할 세마포어를 받는다. (위의 sem_t semaphore가 여기 해당된다.)
+
+두번째 인자 :: 여기에 0을 주지 않을경우 sem_init는 항상 ENOSYS 에러코드를 반환한다.(0을 쓰도록 한다.)
+
+세번째 인자 :: 세마포어를 몇으로 초기화 할지 의미한다.(화장실 열쇠를 몇개로 시작할지 의미)
+우리는 init을 쓸 수가 없다...
 
 
 # 구조
