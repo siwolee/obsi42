@@ -1,12 +1,19 @@
 42위키 미니알티 해석본 
 https://yeosong1.github.io/miniRT
 
+### 헷갈리는 부분
+When you change the resolution of the window, the content of the window must remain unchanged and be adjusted accordingly.
+
+Your program must be able to resize the object’s unique properties: diameter for a sphere and the width and height for a cylinder. • Your program must be able to apply translation and rotation transformation to objects, lights and cameras (except for spheres and lights that cannot be rotated).
+들어가는 rt파일에 따라 핸들링 가능해야 함
+
 
 # 🏳️‍🌈 기본 과제
 ## allowed functions
 open, close, read, write, printf, malloc, free, perror, strerror, exit 
 All functions of the math library (-lm man man 3 math) 
 All functions of the MinilibX 
+<font color="#00b050">The use of images of the minilibX is strongly recommended</font>
 And Libft
 
 ## GOAL
