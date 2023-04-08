@@ -39,18 +39,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37aa3c304f7f21a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "philosopher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "12f26ede66f18e3a",
             "type": "leaf",
             "state": {
@@ -62,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +180,11 @@
   },
   "active": "a8eb4434a44bb1c6",
   "lastOpenFiles": [
-    "Screen Shot 2023-04-08 at 4.01.03 PM.png",
-    "miniRT.md",
-    "miniRT_문제해결.md",
     "miniRT parsing kkbbdkdkd3.md",
     "philosopher.md",
+    "miniRT_문제해결.md",
+    "Screen Shot 2023-04-08 at 4.01.03 PM.png",
+    "miniRT.md",
     "❤️‍🔥 Project.md",
     "conflict-files-obsidian-git.md",
     "exam 03 -draw.md",
