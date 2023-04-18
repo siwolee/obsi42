@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a525e5d57d8b7360",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "miniRT_문제해결.md",
+                "file": "miniRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "miniRT_문제해결.md",
+                "file": "miniRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "miniRT_문제해결.md"
+                "file": "miniRT.md"
               }
             }
           }
@@ -178,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8eb4434a44bb1c6",
+  "active": "f23e97583813d3fd",
   "lastOpenFiles": [
     "miniRT parsing kkbbdkdkd3.md",
-    "philosopher.md",
     "miniRT_문제해결.md",
+    "philosopher.md",
     "Screen Shot 2023-04-08 at 4.01.03 PM.png",
     "miniRT.md",
     "❤️‍🔥 Project.md",
