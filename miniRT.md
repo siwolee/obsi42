@@ -1,4 +1,6 @@
 [[miniRT_문제해결]]
+[[miniRT 재정리]]
+
 
 42위키 미니알티 해석본 
 https://yeosong1.github.io/miniRT
