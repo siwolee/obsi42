@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosopher.md",
+                "file": "❤️‍🔥 Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5df76c247855926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "miniRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a525e5d57d8b7360",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosopher.md",
+                "file": "miniRT parsing kkbbdkdkd3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosopher.md",
+                "file": "miniRT parsing kkbbdkdkd3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosopher.md"
+                "file": "miniRT parsing kkbbdkdkd3.md"
               }
             }
           }
@@ -176,13 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f23e97583813d3fd",
+  "active": "12f26ede66f18e3a",
   "lastOpenFiles": [
-    "❤️‍🔥 Project.md",
     "miniRT.md",
+    "❤️‍🔥 Project.md",
+    "Untitled.md",
+    "philosopher.md",
     "miniRT parsing kkbbdkdkd3.md",
     "miniRT_문제해결.md",
-    "philosopher.md",
     "Screen Shot 2023-04-08 at 4.01.03 PM.png",
     "conflict-files-obsidian-git.md",
     "exam 03 -draw.md",
