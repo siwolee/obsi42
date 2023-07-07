@@ -6,8 +6,9 @@ int	main(int ac, char **av)
 
 	fd = file_check(ac, av);
 	vars.scene = scene_init(); // initing mlx canvas values
-	check_len(av[1]);
-	readmap(&vars.scene, fd);
+	check_rt(av[1]); //check rt file
+	readmap(&vars.scene, fd); 
+	// read map from the rt.file and parse into map info
 	ft_init_mlx(&vars, &vars.scene, &vars.image);
 	ft_draw(&vars.scene, &vars.image);
 	mlx_put_image_to_window(vars.mlx, vars.win, vars.image.img, 0, 0);
