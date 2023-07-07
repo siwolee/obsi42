@@ -30,6 +30,44 @@ int	main(int ac, char **av)
 	return (0);
 }```
 
+픽셀에서 색을 결정하는 로직
+```c
+t_color	ray_color(t_scene *scene)
+{
+	double	t;
+
+	scene->rec = record_init();
+	if (hit(scene->world, &scene->ray, &scene->rec) == TRUE)
+		return (phong_lighting(scene));
+	t = 0.5 * (scene->ray.dir.y + 1.0); //why ray direction?
+	// t = 1;
+	// return (vadd(vmuln(vec(1, 1, 1), 1.0 - t), vmuln(vec(0.5, 0.7, 1.0), t)));
+	return (vadd(vmuln(vec(1, 1, 1), 1.0 - t), vmuln(vec(0, 0, 0), t)));
+}
+```
+
+```c
+t_bool	hit(t_object *world, t_ray *ray, t_hit_record *rec)
+{
+	t_bool			hit_anything;
+	t_hit_record	temp_rec;
+
+	temp_rec = *rec;
+	hit_anything = FALSE;
+	while (world)
+	{
+		if (hit_obj(world, ray, &temp_rec) == TRUE)
+		{
+			hit_anything = TRUE;
+			temp_rec.tmax = temp_rec.t;
+			*rec = temp_rec;
+		}
+		world = world->next;
+	}
+	return (hit_anything);
+}```
+
+
 
 # Questions - ongoing
 ### hit_### 여기서 판별식이 어떻게 나오는가?

@@ -6,7 +6,7 @@
       {
         "id": "a525e5d57d8b7360",
         "type": "tabs",
-        "dimension": 27.380015735641226,
+        "dimension": 34.382376081825335,
         "children": [
           {
             "id": "37aa3c304f7f21a1",
@@ -25,7 +25,7 @@
       {
         "id": "767b268bc12c0e26",
         "type": "tabs",
-        "dimension": 72.61998426435878,
+        "dimension": 65.61762391817466,
         "children": [
           {
             "id": "d5567fc7a79a9a3e",
@@ -181,9 +181,9 @@
   },
   "active": "d5567fc7a79a9a3e",
   "lastOpenFiles": [
-    "Phong lighting Model.md",
-    "inbox/miniRT 재정리.md",
     "inbox/miniRT.md",
+    "inbox/miniRT 재정리.md",
+    "Phong lighting Model.md",
     "inbox/obsidian - markdown.md",
     "inbox/SSH 여러 개 관리하기.md",
     "inbox/To search list.md",
