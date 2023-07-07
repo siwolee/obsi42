@@ -6,6 +6,7 @@
       {
         "id": "a525e5d57d8b7360",
         "type": "tabs",
+        "dimension": 27.380015735641226,
         "children": [
           {
             "id": "37aa3c304f7f21a1",
@@ -24,6 +25,7 @@
       {
         "id": "767b268bc12c0e26",
         "type": "tabs",
+        "dimension": 72.61998426435878,
         "children": [
           {
             "id": "d5567fc7a79a9a3e",
@@ -49,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phong lighting Model.md",
+                "file": "inbox/miniRT 재정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phong lighting Model.md",
+                "file": "inbox/miniRT 재정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phong lighting Model.md"
+                "file": "inbox/miniRT 재정리.md"
               }
             }
           }
@@ -178,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b63ad56f8dd45d5b",
+  "active": "d5567fc7a79a9a3e",
   "lastOpenFiles": [
-    "inbox/miniRT 재정리.md",
     "Phong lighting Model.md",
+    "inbox/miniRT 재정리.md",
     "inbox/miniRT.md",
     "inbox/obsidian - markdown.md",
     "inbox/SSH 여러 개 관리하기.md",

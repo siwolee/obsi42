@@ -17,12 +17,16 @@ int	main(int ac, char **av)
 	// -- if false : background color is rendered by position
 	// -- if true : check distance to the object, get the closest one
 	//.-- render color by light, ambient, color of the object
-	// -- after color is rendered, render phong lighting
-	// 
+	// -- after color is rendered, render phong lighting and shadow
+	// color the pixel by result and save
 	mlx_put_image_to_window(vars.mlx, vars.win, vars.image.img, 0, 0);
+	// put saved image into mlx canvas
 	mlx_key_hook(vars.win, key_press, &vars);
+	// keyboard input setting for camera 
 	mlx_hook(vars.win, X_EVENT_KEY_EXIT, 0, &key_destroy, &vars);
+	// keyboard input setting for exit
 	mlx_loop(vars.mlx);
+	// run
 	return (0);
 }```
 
