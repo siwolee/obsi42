@@ -5,7 +5,7 @@ int	main(int ac, char **av)
 	int		fd;
 
 	fd = file_check(ac, av);
-	vars.scene = scene_init();
+	vars.scene = scene_init(); // initing mlx canvas values
 	check_len(av[1]);
 	readmap(&vars.scene, fd);
 	ft_init_mlx(&vars, &vars.scene, &vars.image);
