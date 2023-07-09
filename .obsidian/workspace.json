@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4740156cf6650cb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d93b72456609fddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "메모리얼 홈페이지....md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "767b268bc12c0e26",
@@ -40,6 +61,16 @@
             }
           },
           {
+            "id": "475456a404d3a4f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "b63ad56f8dd45d5b",
             "type": "leaf",
             "state": {
@@ -51,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +128,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "38722c962d620ecf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -118,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/miniRT 재정리.md",
+                "file": "메모리얼 홈페이지....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/miniRT 재정리.md",
+                "file": "메모리얼 홈페이지....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/miniRT 재정리.md"
+                "file": "메모리얼 홈페이지....md"
               }
             }
           }
@@ -179,8 +219,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5567fc7a79a9a3e",
+  "active": "d93b72456609fddf",
   "lastOpenFiles": [
+    "메모리얼 홈페이지....md",
     "inbox/miniRT.md",
     "inbox/miniRT 재정리.md",
     "Phong lighting Model.md",
