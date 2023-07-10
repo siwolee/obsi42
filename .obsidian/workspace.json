@@ -4,72 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a525e5d57d8b7360",
-        "type": "tabs",
-        "dimension": 34.382376081825335,
-        "children": [
-          {
-            "id": "37aa3c304f7f21a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/miniRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a4d6386b637ea02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "판별식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "767b268bc12c0e26",
-        "type": "tabs",
-        "dimension": 32.80881195908733,
-        "children": [
-          {
-            "id": "b63ad56f8dd45d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phong lighting Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5567fc7a79a9a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/miniRT 재정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "903140078d318b6a",
         "type": "tabs",
-        "dimension": 32.80881195908733,
         "children": [
           {
             "id": "a20bff2275faab2d",
@@ -82,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0ea61f1a5174cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/miniRT 재정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d81b4b6458f54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phong lighting Model.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/miniRT.md",
+                "file": "Phong lighting Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/miniRT.md",
+                "file": "Phong lighting Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/miniRT.md"
+                "file": "Phong lighting Model.md"
               }
             }
           }
@@ -219,14 +180,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37aa3c304f7f21a1",
+  "active": "a7d81b4b6458f54d",
   "lastOpenFiles": [
     "inbox/miniRT 재정리.md",
-    "inbox/miniRT.md",
     "판별식.md",
+    "Screenshot 2023-07-10 at 3.46.00 PM.png",
+    "Screenshot 2023-07-10 at 3.40.54 PM.png",
+    "Screenshot 2023-07-10 at 3.34.55 PM.png",
+    "hit_cylinder 에서 왜 세 개의 값이 들어가는가?.md",
+    "Phong lighting Model.md",
+    "hit_.md",
+    "Screenshot 2023-07-10 at 3.25.37 PM.png",
+    "Screenshot 2023-07-10 at 3.23.17 PM.png",
+    "Screenshot 2023-07-10 at 3.18.08 PM.png",
+    "Screenshot 2023-07-10 at 3.17.33 PM.png",
+    "inbox/miniRT.md",
     "Screenshot 2023-07-10 at 1.02.56 PM.png",
     "Screenshot 2023-07-10 at 1.02.46 PM.png",
-    "Phong lighting Model.md",
     "메모리얼 홈페이지....md",
     "inbox/obsidian - markdown.md",
     "inbox/SSH 여러 개 관리하기.md",
@@ -247,7 +217,6 @@
     "inbox/git commit 되돌리기.md",
     "inbox/Merge and conflict.md",
     "inbox/so_long.md",
-    "inbox/QMK keyboard.md",
-    "inbox/Pasted image 20230123174143.png"
+    "inbox/QMK keyboard.md"
   ]
 }
