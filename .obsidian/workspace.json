@@ -21,22 +21,6 @@
             }
           },
           {
-            "id": "4740156cf6650cb3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "767b268bc12c0e26",
-        "type": "tabs",
-        "dimension": 65.61762391817466,
-        "children": [
-          {
             "id": "d5567fc7a79a9a3e",
             "type": "leaf",
             "state": {
@@ -47,7 +31,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "767b268bc12c0e26",
+        "type": "tabs",
+        "dimension": 65.61762391817466,
+        "children": [
           {
             "id": "475456a404d3a4f8",
             "type": "leaf",
@@ -70,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/miniRT 재정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/miniRT 재정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/miniRT 재정리.md"
+              }
             }
           }
         ]
@@ -203,12 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4740156cf6650cb3",
+  "active": "d5567fc7a79a9a3e",
   "lastOpenFiles": [
+    "Phong lighting Model.md",
     "메모리얼 홈페이지....md",
     "inbox/miniRT.md",
     "inbox/miniRT 재정리.md",
-    "Phong lighting Model.md",
     "inbox/obsidian - markdown.md",
     "inbox/SSH 여러 개 관리하기.md",
     "inbox/To search list.md",
