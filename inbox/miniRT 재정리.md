@@ -70,8 +70,9 @@ t_bool	hit(t_object *world, t_ray *ray, t_hit_record *rec)
 
 
 # Questions - ongoing
-### hit_### 여기서 판별식이 어떻게 나오는가?
-
+[[hit_### 여기서 판별식이 어떻게 나오는가?]]
+![[Screenshot 2023-07-10 at 1.02.56 PM.png]]
+![[Screenshot 2023-07-10 at 1.02.46 PM.png]]
 ### hit_cylinder 에서 왜 세 개의 값이 들어가는가?
 ```c
 t_bool	hit_cylinder(t_object *cy_obj, t_ray *ray, t_hit_record *rec)
