@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "판별식.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64211ef451deef4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "❤️‍🔥 Project.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "❤️‍🔥 Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "❤️‍🔥 Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "❤️‍🔥 Project.md"
               }
             }
           }
@@ -214,18 +202,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64211ef451deef4f",
+  "active": "927229fb2cec242b",
   "lastOpenFiles": [
-    "판별식.md",
-    "conflict-files-obsidian-git.md",
-    "hit_.md",
-    "inbox/miniRT 재정리.md",
     "tilting.md",
+    "메모리얼 홈페이지....md",
+    "image/Screen Shot 2023-07-10 at 6.10.19 PM.png",
+    "inbox/판별식.md",
+    "image",
+    "conflict-files-obsidian-git.md",
+    "inbox/hit_.md",
+    "inbox/miniRT 재정리.md",
     "inbox/miniRT.md",
     "Phong lighting Model.md",
-    "Screen Shot 2023-07-10 at 6.12.44 PM.png",
-    "Screen Shot 2023-07-10 at 6.12.20 PM.png",
-    "Screen Shot 2023-07-10 at 6.10.19 PM.png",
+    "image/Screen Shot 2023-07-10 at 6.12.44 PM.png",
+    "image/Screen Shot 2023-07-10 at 6.12.20 PM.png",
     "inbox/Makefile bonus.md",
     "inbox/To search list.md",
     "inbox/exam 03 -draw.md",
@@ -234,7 +224,6 @@
     "inbox/philosopher.md",
     "inbox/so_long.md",
     "inbox/variable.md",
-    "메모리얼 홈페이지....md",
     "inbox/miniRT_문제해결.md",
     "inbox/git commit 되돌리기.md",
     "inbox/Screen Shot 2023-04-08 at 4.01.03 PM.png",
@@ -246,12 +235,11 @@
     "inbox/Debugging.md",
     "inbox/Davinci Resolve 자동화 문서입니당~!.md",
     "hit_cylinder 에서 왜 세 개의 값이 들어가는가?.md",
-    "Screenshot 2023-07-10 at 3.46.00 PM.png",
-    "Screenshot 2023-07-10 at 3.40.54 PM.png",
-    "Screenshot 2023-07-10 at 3.34.55 PM.png",
-    "Screenshot 2023-07-10 at 3.25.37 PM.png",
-    "Screenshot 2023-07-10 at 3.23.17 PM.png",
-    "miniRT.md",
+    "image/Screenshot 2023-07-10 at 3.46.00 PM.png",
+    "image/Screenshot 2023-07-10 at 3.40.54 PM.png",
+    "image/Screenshot 2023-07-10 at 3.34.55 PM.png",
+    "image/Screenshot 2023-07-10 at 3.25.37 PM.png",
+    "image/Screenshot 2023-07-10 at 3.23.17 PM.png",
     "exam03.c"
   ]
 }
