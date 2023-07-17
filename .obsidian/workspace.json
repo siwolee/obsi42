@@ -13,78 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miniRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a525e5d57d8b7360",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "12f26ede66f18e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Makefile bonus.md",
+                "file": "inbox/miniRT 재정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8eb4434a44bb1c6",
+            "id": "1320bba3f5326714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miniRT_문제해결.md",
+                "file": "tilting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c8d8c84008c7a05",
+            "id": "66b51b4e4ad32b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miniRT 재정리.md",
+                "file": "inbox/miniRT 재정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0800d2e39c75a816",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "b5df76c247855926",
+            "id": "927229fb2cec242b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miniRT parsing kkbbdkdkd3.md",
+                "file": "판별식.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64211ef451deef4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15799c1d68cd3520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phong lighting Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b97cdae57489b92",
@@ -159,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "miniRT 재정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "miniRT 재정리.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "miniRT 재정리.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -207,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,30 +214,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0800d2e39c75a816",
+  "active": "64211ef451deef4f",
   "lastOpenFiles": [
-    "miniRT.md",
-    "miniRT 재정리.md",
-    "miniRT parsing kkbbdkdkd3.md",
-    "miniRT_문제해결.md",
-    "❤️‍🔥 Project.md",
-    "inbox/Makefile bonus.md",
-    "Untitled.md",
-    "philosopher.md",
-    "Screen Shot 2023-04-08 at 4.01.03 PM.png",
+    "판별식.md",
     "conflict-files-obsidian-git.md",
-    "exam 03 -draw.md",
-    "exam03.c",
-    "minishell.md",
-    "inbox/pipex.md",
-    "Makefile relink and 종속성.md",
-    "Makefile relink /종속성.md",
-    "inbox/obsidian - markdown.md",
-    "git commit 되돌리기.md",
-    "Merge and conflict.md",
-    "so_long.md",
-    "QMK keyboard.md",
-    "To search list.md",
-    "Pasted image 20230123174143.png"
+    "hit_.md",
+    "inbox/miniRT 재정리.md",
+    "tilting.md",
+    "inbox/miniRT.md",
+    "Phong lighting Model.md",
+    "Screen Shot 2023-07-10 at 6.12.44 PM.png",
+    "Screen Shot 2023-07-10 at 6.12.20 PM.png",
+    "Screen Shot 2023-07-10 at 6.10.19 PM.png",
+    "inbox/Makefile bonus.md",
+    "inbox/To search list.md",
+    "inbox/exam 03 -draw.md",
+    "inbox/miniRT parsing kkbbdkdkd3.md",
+    "inbox/minishell.md",
+    "inbox/philosopher.md",
+    "inbox/so_long.md",
+    "inbox/variable.md",
+    "메모리얼 홈페이지....md",
+    "inbox/miniRT_문제해결.md",
+    "inbox/git commit 되돌리기.md",
+    "inbox/Screen Shot 2023-04-08 at 4.01.03 PM.png",
+    "inbox/QMK keyboard.md",
+    "inbox/Pasted image 20230123174143.png",
+    "inbox/OS.md",
+    "inbox/Merge and conflict.md",
+    "inbox/Makefile relink and 종속성.md",
+    "inbox/Debugging.md",
+    "inbox/Davinci Resolve 자동화 문서입니당~!.md",
+    "hit_cylinder 에서 왜 세 개의 값이 들어가는가?.md",
+    "Screenshot 2023-07-10 at 3.46.00 PM.png",
+    "Screenshot 2023-07-10 at 3.40.54 PM.png",
+    "Screenshot 2023-07-10 at 3.34.55 PM.png",
+    "Screenshot 2023-07-10 at 3.25.37 PM.png",
+    "Screenshot 2023-07-10 at 3.23.17 PM.png",
+    "miniRT.md",
+    "exam03.c"
   ]
 }
