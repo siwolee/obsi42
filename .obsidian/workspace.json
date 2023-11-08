@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "7bdf40595c3bd08f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "a7d81b4b6458f54d",
             "type": "leaf",
             "state": {
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1533e663d3cef349",
+  "active": "7bdf40595c3bd08f",
   "lastOpenFiles": [
     "image/Screenshot 2023-07-10 at 3.40.54 PM.png",
     "image/Screenshot 2023-07-10 at 3.25.37 PM.png",
