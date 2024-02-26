@@ -48,6 +48,30 @@
             }
           },
           {
+            "id": "8a42f8b5bb8c9d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2133ae53554ef307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7d81b4b6458f54d",
             "type": "leaf",
             "state": {
@@ -58,9 +82,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ea3985cc4a8c4d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image/Screenshot 2023-07-10 at 3.46.00 PM.png",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/Screenshot 2023-07-10 at 3.46.00 PM.png",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/Screenshot 2023-07-10 at 3.46.00 PM.png"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -195,8 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "959df6b1a0302530",
+  "active": "5ea3985cc4a8c4d5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled",
     "image/Screenshot 2023-07-10 at 3.40.54 PM.png",
     "image/Screenshot 2023-07-10 at 3.25.37 PM.png",
     "image/Screenshot 2023-07-10 at 3.18.08 PM.png",
@@ -213,7 +250,6 @@
     "inbox/hit_.md",
     "image/Screenshot 2023-07-10 at 3.46.00 PM.png",
     "image/Screenshot 2023-07-10 at 3.34.55 PM.png",
-    "image/Screenshot 2023-07-10 at 3.23.17 PM.png",
     "image",
     "판별식.md",
     "hit_cylinder 에서 왜 세 개의 값이 들어가는가?.md",
@@ -233,7 +269,6 @@
     "inbox/minishell.md",
     "inbox/pipex.md",
     "inbox/Makefile relink and 종속성.md",
-    "Makefile relink /종속성.md",
-    "inbox/git commit 되돌리기.md"
+    "Makefile relink /종속성.md"
   ]
 }
