@@ -87,9 +87,11 @@
             "id": "5ea3985cc4a8c4d5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Untitled mindmap.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.50418853759766
   },
   "right": {
     "id": "9b97cdae57489b92",
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Untitled mindmap.md"
               }
             }
           }
@@ -232,6 +234,7 @@
   "active": "5ea3985cc4a8c4d5",
   "lastOpenFiles": [
     "Untitled.md",
+    "Untitled mindmap.md",
     "Untitled 1.md",
     "Untitled",
     "image/Screenshot 2023-07-10 at 3.40.54 PM.png",
@@ -268,7 +271,6 @@
     "❤️‍🔥 Project.md",
     "inbox/minishell.md",
     "inbox/pipex.md",
-    "inbox/Makefile relink and 종속성.md",
-    "Makefile relink /종속성.md"
+    "inbox/Makefile relink and 종속성.md"
   ]
 }
