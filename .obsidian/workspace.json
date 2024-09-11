@@ -4,99 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "903140078d318b6a",
+        "id": "4bd65888b6661567",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ea61f1a5174cc6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/Screenshot 2023-07-10 at 3.46.00 PM.png"
-              }
-            }
-          },
-          {
-            "id": "1533e663d3cef349",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "7bdf40595c3bd08f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "959df6b1a0302530",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "8a42f8b5bb8c9d00",
+            "id": "fd9e484792cf5b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "블로그 제작하기.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2133ae53554ef307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d81b4b6458f54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phong lighting Model.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea3985cc4a8c4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled mindmap.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled mindmap.md",
+                "file": "블로그 제작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled mindmap.md",
+                "file": "블로그 제작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled mindmap.md"
+                "file": "블로그 제작하기.md"
               }
             }
           }
@@ -231,11 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ea3985cc4a8c4d5",
+  "active": "fd9e484792cf5b3c",
   "lastOpenFiles": [
+    "블로그 제작하기.md",
+    "tilting.md",
     "Untitled.md",
-    "Untitled mindmap.md",
     "Untitled 1.md",
+    "Untitled mindmap.md",
+    "메모리얼 홈페이지....md",
     "Untitled",
     "image/Screenshot 2023-07-10 at 3.40.54 PM.png",
     "image/Screenshot 2023-07-10 at 3.25.37 PM.png",
@@ -245,8 +171,6 @@
     "image/Screen Shot 2023-07-10 at 6.12.44 PM.png",
     "image/Screen Shot 2023-07-10 at 6.12.20 PM.png",
     "image/Screen Shot 2023-07-10 at 6.10.19 PM.png",
-    "메모리얼 홈페이지....md",
-    "tilting.md",
     "inbox/miniRT 재정리.md",
     "Phong lighting Model.md",
     "inbox/판별식.md",
@@ -270,7 +194,6 @@
     "exam03.c",
     "❤️‍🔥 Project.md",
     "inbox/minishell.md",
-    "inbox/pipex.md",
-    "inbox/Makefile relink and 종속성.md"
+    "inbox/pipex.md"
   ]
 }
